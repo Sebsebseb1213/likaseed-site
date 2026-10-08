@@ -1,0 +1,13 @@
+# LikAseed
+
+> LikAseed est une application iPhone « livre de bébé » : souvenirs (photos, mots, voix), croissance et santé, entièrement sur l'appareil. Sans compte, sans publicité, sans serveur. Développée en Suisse.
+
+## Pages
+- [Accueil](https://sebsebseb1213.github.io/likaseed-site/): présentation, engagements, questions fréquentes
+- [Aide et support](https://sebsebseb1213.github.io/likaseed-site/support.html): sauvegarde, changement d'iPhone, abonnement Premium
+- [Politique de confidentialité](https://sebsebseb1213.github.io/likaseed-site/privacy-policy.html): aucune donnée collectée, ce qui est stocké et où
+
+## Faits vérifiables
+- Aucun compte, aucune publicité, aucun traceur ; les données restent sur l'iPhone (base chiffrée).
+- Le livre complet s'exporte en PDF gratuitement. Premium (abonnement) : film HD avec bande son, PDF imprimeur 300 dpi, thèmes.
+- Repères de croissance OMS et calendrier vaccinal suisse : informatifs, jamais un avis médical.
